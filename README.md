@@ -6,6 +6,6 @@ i am a trainee **data scientist**
 
 ### education
 
-![image test] (images/9F2B252D-4D27-469D-A35A-E5D706C4B82B.jpeg)
+[image test] (images/9F2B252D-4D27-469D-A35A-E5D706C4B82B.jpeg)
 
 
