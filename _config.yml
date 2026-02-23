@@ -1,5 +1,14 @@
-title: Luke Waldron
+title: "Luke Waldron"
+description: "Insight Manager | Data Science | FCA & FOS Complaints (UK Banking)"
+theme: jekyll-theme-slate
+
+# Optional header image
 logo: /Images/9F2B252D-4D27-469D-A35A-E5D706C4B82B.jpeg
-#description: text example
+
+# Show download button automatically
 show_downloads: true
-theme: jekyll-theme-minimal
+
+# GitHub Pages metadata
+github:
+  is_project_page: false
+
