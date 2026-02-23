@@ -6,7 +6,7 @@ theme: jekyll-theme-slate
 logo: /Images/9F2B252D-4D27-469D-A35A-E5D706C4B82B.jpeg
 
 # Show download button automatically
-show_downloads: true
+show_downloads: false
 
 # GitHub Pages metadata
 github:
