@@ -1,4 +1,4 @@
-# Dspp_DRAFT
+# Public Portfolio
 <img src="Images/image.png" alt="image test" width="140">
 
 
@@ -74,8 +74,8 @@ Core interests include applied data science, automation, and fair customer outco
 
 ## Links
 
-- LinkedIn: https://www.linkedin.com/in/your-handle  
-- GitHub: https://github.com/your-handle  
+- LinkedIn: https://uk.linkedin.com/in/luke-waldron-a59b9b96
+- GitHub: https://github.com/https://github.com/BP0323887
 - Download CV: [PDF](CV%20Luke%20Waldron%2001122023.pdf)
 
 ---
