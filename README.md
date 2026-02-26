@@ -53,11 +53,15 @@ Core interests include applied data science, automation, and fair customer outco
   </div>
 </div>
 
-
-
-
-
-- **NFL Combine analysis** – predictive modelling using 25 years of combine data  
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px;">
+  <a href="https://github.com/owner/repo">
+    <img src="Images/NFL_DS_Logo.png" width="120" alt="Logo">
+  </a>
+  <div>
+    <strong>NFL Combine analysis</strong>  
+    <span style="display:block;">predictive modelling using 25 years of combine data  </span>
+  </div>
+</div>
 
 ---
 
