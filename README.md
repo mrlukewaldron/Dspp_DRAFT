@@ -45,7 +45,7 @@ Core interests include applied data science, automation, and fair customer outco
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:12px;">
   <a href="https://github.com/owner/repo">
-    <img src="Images/LogisticRegressionLogo.png" width="80" alt="Logo">
+    <img src="Images/LogisticRegressionLogo.png" width="120" alt="Logo">
   </a>
   <div>
     <strong>Simple Logistic Regression</strong>  
