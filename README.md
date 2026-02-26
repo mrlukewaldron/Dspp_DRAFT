@@ -2,7 +2,7 @@
 
 
 
-![image test](Images/image.png) style='width: 150px;'
+<img src="Images/image.png" alt="image test" width="150">
 
 
 # Luke Waldron
