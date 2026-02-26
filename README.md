@@ -42,20 +42,17 @@ Core interests include applied data science, automation, and fair customer outco
 ## Projects
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
 
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px;">
   <a href="https://github.com/owner/repo">
-    <img src="Images/LogisticRegressionLogo.png" 
-         alt="Project logo" 
-         width="100">
+    <img src="Images/LogisticRegressionLogo.png" width="80" alt="Logo">
   </a>
-
   <div>
-    <strong>Simple Logistic Regression</strong><br>
-    Logistic Regression Churn Model on Test Data
+    <strong>Simple Logistic Regression</strong>  
+    <span style="display:block;">Logistic Regression Churn Model on Test Data</span>
   </div>
-
 </div>
+
 
 
 
