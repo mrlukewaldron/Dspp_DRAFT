@@ -40,12 +40,12 @@ Core interests include applied data science, automation, and fair customer outco
 ---
 
 ## Projects
-
-- **Simple Logistic Regression** – Logistic Regression Churn Model on Test Data
-
+**Simple Logistic Regression**
 <a href="https://github.com/owner/repo">
-  <img src="Images/LogisticRegressionLogo.png" alt="Project logo" width="240">
+  <img src="Images/LogisticRegressionLogo.png" alt="Project logo" width="150">
 </a>
+-Logistic Regression Churn Model on Test Data
+
 
 - **NFL Combine analysis** – predictive modelling using 25 years of combine data  
 
