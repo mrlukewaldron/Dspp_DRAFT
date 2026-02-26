@@ -1,7 +1,4 @@
 # Dspp_DRAFT
-
-
-
 <img src="Images/image.png" alt="image test" width="150">
 
 
@@ -45,8 +42,9 @@ Core interests include applied data science, automation, and fair customer outco
 ## Projects
 
 <a href="https://github.com/owner/repo">
-  <img src="Images/LogisticRegressionLogo.png" alt="Project logo" width="24">
-</a>- **Simple Logistic Regression** – predictive modelling using 25 years of combine data  
+  <img src="Images/LogisticRegressionLogo.png" alt="Project logo" width="240">
+</a> Simple Logistic Regression – predictive modelling using 25 years of combine data  
+
 - **NFL Combine analysis** – predictive modelling using 25 years of combine data  
 
 ---
