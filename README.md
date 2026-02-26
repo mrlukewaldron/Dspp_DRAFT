@@ -55,7 +55,7 @@ Core interests include applied data science, automation, and fair customer outco
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:12px;">
   <a href="https://github.com/owner/repo">
-    <img src="Images/NFL_DS_Logo.png" width="120" alt="Logo">
+    <img src="Images/NFL_DS_Logo2.png" width="120" alt="Logo">
   </a>
   <div>
     <strong>NFL Combine analysis</strong>  
